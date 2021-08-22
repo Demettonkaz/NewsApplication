@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsExample</string>
+    <string name="app_bar_title">Sports</string>
+    <string name="app_bar_back_title">Back</string>
+    <string name="start_date">Başlangıç Tarihi</string>
+    <string name="finish_date">Bitiş Tarihi</string>
+    <string name="show_button">Göster</string>
+</resources>
